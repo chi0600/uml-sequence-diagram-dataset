@@ -24,11 +24,11 @@ This repository hosts the original documents/dataset artefacts used in our study
 
 ```bash
 git clone https://github.com/chi0600/uml-sequence-diagram-dataset.git
+```
 
+## Citation
 
-### Citation
-
-If you use this dataset, please cite the paper:
+```bibtex
 @inproceedings{Xiao2025UMLSequence,
   author    = {Chi Xiao and Daniel St{\aa}hl and Jan Bosch},
   title     = {UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation},
