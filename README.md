@@ -32,7 +32,12 @@ git clone https://github.com/chi0600/uml-sequence-diagram-dataset.git
 @inproceedings{Xiao2025UMLSequence,
   author    = {Chi Xiao and Daniel St{\aa}hl and Jan Bosch},
   title     = {UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation},
-  booktitle = {SEIP@ICSE},
+  booktitle = {47th IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2025)},
   year      = {2025},
+  pages     = {272--283},
   doi       = {10.1109/ICSE-SEIP66354.2025.00030}
 }
+```
+
+## Cite this dataset
+Use the GitHub **Cite this repository** button on the right-hand side, or cite our paper via DOI: https://doi.org/10.1109/ICSE-SEIP66354.2025.00030
