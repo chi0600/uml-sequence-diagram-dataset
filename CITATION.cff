@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the paper below."
+title: "UML Sequence Diagram Dataset"
+type: dataset
+license: CC-BY-4.0
+repository-code: "https://github.com/chi0600/uml-sequence-diagram-dataset"
+url: "https://github.com/chi0600/uml-sequence-diagram-dataset"
+keywords:
+  - "UML"
+  - "sequence diagram"
+  - "dataset"
+  - "text-to-diagram"
+  - "software engineering"
+authors:
+  - family-names: "Xiao"
+    given-names: "Chi"
+  - family-names: "Ståhl"
+    given-names: "Daniel"
+  - family-names: "Bosch"
+    given-names: "Jan"
+
+preferred-citation:
+  type: conference-paper
+  title: "UML Sequence Diagram Generation: A Multi-Model, Multi-Domain Evaluation"
+  authors:
+    - family-names: "Xiao"
+      given-names: "Chi"
+    - family-names: "Ståhl"
+      given-names: "Daniel"
+    - family-names: "Bosch"
+      given-names: "Jan"
+  doi: "10.1109/ICSE-SEIP66354.2025.00030"
+  year: 2025
+  conference:
+    name: "ICSE-SEIP"
